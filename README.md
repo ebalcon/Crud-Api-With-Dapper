@@ -58,11 +58,9 @@ This project is a minimal API (2 class) made in ASP.NET to perform CRUD type act
 
 ## Contact
 
-[1]: http://www.github.com/ebalcon
 [2]: https://www.linkedin.com/in/ebalcon
 
-[![github](https://www.flaticon.com/fr/icone-gratuite/github_2111432)][1]
-[![linkedin](https://www.flaticon.com/fr/icone-gratuite/linkedin_145807)][2]
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][2]
 
 Project Link: https://github.com/ebalcon/Crud-Api-With-Dapper
    
