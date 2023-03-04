@@ -5,19 +5,12 @@ This project is a minimal API (2 class) made in ASP.NET to perform CRUD type act
 ### Built With
 
 * ASP.NET Web API
-
-And for the packages used :
-
-* Dapper
-* SqlClient
+* Dapper (package)
+* SqlClient (package)
 
 ## Getting Started
 
-To run this API on your machine you will need to follow the following instructions.
-
 ### Prerequisites
-
-This is the list tools that you need to install on your machine.
 
 * Sql Server
 * MSSMS (Sql server managment)
@@ -62,16 +55,14 @@ This is the list tools that you need to install on your machine.
    ```sh
    "DefaultConnection" : "Data Source=YOUR_INSTANCE;Initial Catalog=YOUR_DATABASE;Integrated Security=True"
    ```
-   
-## Usage
-
-You can use this API to make your own API and then link it to another project.
 
 ## Contact
 
-Email :ebalcon.pro@gmail.com
+[1]: http://www.github.com/ebalcon
+[2]: https://www.linkedin.com/in/ebalcon
 
-Linkedin : ebalcon
+[![github](https://www.flaticon.com/fr/icone-gratuite/github_2111432)][1]
+[![linkedin](https://www.flaticon.com/fr/icone-gratuite/linkedin_145807)][2]
 
-Project Link: https://github.com/ebalcon/CrudApiWithDapper
+Project Link: https://github.com/ebalcon/Crud-Api-With-Dapper
    
