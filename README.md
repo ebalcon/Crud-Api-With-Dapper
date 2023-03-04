@@ -69,10 +69,9 @@ You can use this API to make your own API and then link it to another project.
 
 ## Contact
 
-mail :ebalcon.pro@gmail.com
-linkedin : ebalcon
+Email :ebalcon.pro@gmail.com
+
+Linkedin : ebalcon
 
 Project Link: https://github.com/ebalcon/CrudApiWithDapper
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
    
